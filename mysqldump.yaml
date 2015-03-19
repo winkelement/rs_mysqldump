@@ -1,0 +1,5 @@
+name: mysqldump
+author: Robert Damrau
+version: 0.1
+desc: Export mysql db without external utilities 
+config_url: /plugins/mysqldump/pages/setup.php
